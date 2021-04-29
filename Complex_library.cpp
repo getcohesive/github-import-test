@@ -55,6 +55,7 @@ class Complex
 
         float arg()
         {
+            // the argument value of the number
             float angle = atan(b/a);
             angle = angle*180/PI;
             return angle;
