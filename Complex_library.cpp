@@ -2,7 +2,6 @@
 #include<cmath>
 using namespace std;
 
-//sdsdsdsdsaa
 
 #define PI 3.14159265
 
